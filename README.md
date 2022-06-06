@@ -4,5 +4,5 @@
 
 ### Screenshot UI App
 
-|<img src=/images/ss7.png/> | <img src=/images/ss8.png/> | 
+|<img src=/images/ssnews.png/> | <img src=/images/ssdetail.png/> | 
 |:--:|:--:|
